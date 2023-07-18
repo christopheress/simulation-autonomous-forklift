@@ -1,9 +1,5 @@
 # simulation-autonomous-forklift
 
-## Project Title
-
-**Python Forklift Simulation**
-
 ## Introduction
 
 This Python script provides a tool for simulating the behavior of forklifts in a manufacturing setting. It's particularly helpful for predicting possible collisions based on forklifts' movement paths, speeds, waiting times, and acceleration, allowing for better planning and optimization of the operations.
